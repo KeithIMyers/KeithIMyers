@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br />
 
 
-### 📕 Latest Blog Posts from KMyers.me
+### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
 - [ChromeOS 86.0.4208.0 Rolling Out to Dev – Crostini USB Support Enhancements](https://kmyers.me/blog/chromeos/chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements/?utm_source=rss&utm_medium=rss&utm_campaign=chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements)
 - [Amazon Scam Breakdown : The Bait And Switch for False Reviews](https://kmyers.me/blog/general/amazon-scam-breakdown-the-bait-and-switch-for-false-reviews/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-scam-breakdown-the-bait-and-switch-for-false-reviews)
