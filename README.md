@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-#### Project Statuses
+### Project Statuses
 Github Profile Generation (Blog Feed Generation) : ![](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 
