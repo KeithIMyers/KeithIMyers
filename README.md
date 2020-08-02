@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 #### Project Statuses
-Github Profile Generation : ![Latest blog post workflow](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)
+Github Profile Generation (Blog Feed Generation) : ![](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)
