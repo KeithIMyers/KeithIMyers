@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - [Chrome Remote Desktop On Ubuntu 20.04 Setup Guide/Setup Script](https://kmyers.me/blog/linux/chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script/?utm_source=rss&utm_medium=rss&utm_campaign=chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script)
 - [The Shortcomings of ChromeOS in 2020](https://kmyers.me/blog/chromeos/the-shortcomings-of-chromeos-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=the-shortcomings-of-chromeos-in-2020)
 <!-- BLOG-POST-LIST:END -->
+
+
+#### Project Statuses
+Github Profile Generation : ![Latest blog post workflow](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)
