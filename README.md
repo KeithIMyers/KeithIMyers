@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Chromebook Community](https://kmyers.me/blog/chromeos/announcing-the-chromebook-community/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-chromebook-community)
 - [ChromeOS 86.0.4208.0 Rolling Out to Dev – Crostini USB Support Enhancements](https://kmyers.me/blog/chromeos/chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements/?utm_source=rss&utm_medium=rss&utm_campaign=chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements)
 - [Amazon Scam Breakdown : The Bait And Switch for False Reviews](https://kmyers.me/blog/general/amazon-scam-breakdown-the-bait-and-switch-for-false-reviews/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-scam-breakdown-the-bait-and-switch-for-false-reviews)
 - [Rethinking Life in a Post COVID-19 World](https://kmyers.me/blog/general/rethinking-life-in-a-post-covid-19-world/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-life-in-a-post-covid-19-world)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [DexOnLinux/DexOnChromeOS – How To (NO ROOT)](https://kmyers.me/blog/android/dexonlinux-dexonchromeos-how-to-no-root/?utm_source=rss&utm_medium=rss&utm_campaign=dexonlinux-dexonchromeos-how-to-no-root)
 - [ePaper Dashboard POC](https://kmyers.me/blog/general/epaper-dashboard-poc/?utm_source=rss&utm_medium=rss&utm_campaign=epaper-dashboard-poc)
 - [ChromiumOS for the GPD Pocket R84-13054.0 Released – Major Update](https://kmyers.me/blog/chromiumos-for-gpd-pocket/chromiumos-for-the-gpd-pocket-r84-13054-0-released-major-update/?utm_source=rss&utm_medium=rss&utm_campaign=chromiumos-for-the-gpd-pocket-r84-13054-0-released-major-update)
-- [Yes! – 3D Printing PPE For Medical Staff and Frontline Workers is a HORRIBLE idea but here is why I will continue to do it](https://kmyers.me/blog/general/yes-3d-printing-ppe-for-medical-staff-and-frontline-workers-is-a-horrible-idea-but-here-is-why-i-will-continue-to-do-it/?utm_source=rss&utm_medium=rss&utm_campaign=yes-3d-printing-ppe-for-medical-staff-and-frontline-workers-is-a-horrible-idea-but-here-is-why-i-will-continue-to-do-it)
 <!-- BLOG-POST-LIST:END -->
 
 
