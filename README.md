@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Re-Launch of Technical.chat](https://kmyers.me/blog/general/announcing-the-re-launch-of-technical-chat/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-re-launch-of-technical-chat)
 - [Responding to Jays Tech Vault – These Chromebook Ads Are Horrendously Misleading](https://kmyers.me/blog/chromeos/responding-to-jays-tech-vault-these-chromebook-ads-are-horrendously-misleading/?utm_source=rss&utm_medium=rss&utm_campaign=responding-to-jays-tech-vault-these-chromebook-ads-are-horrendously-misleading)
 - [Announcing the Chromebook Community](https://kmyers.me/blog/chromeos/announcing-the-chromebook-community/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-chromebook-community)
 - [ChromeOS 86.0.4208.0 Rolling Out to Dev – Crostini USB Support Enhancements](https://kmyers.me/blog/chromeos/chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements/?utm_source=rss&utm_medium=rss&utm_campaign=chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Shortcomings of ChromeOS in 2020](https://kmyers.me/blog/chromeos/the-shortcomings-of-chromeos-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=the-shortcomings-of-chromeos-in-2020)
 - [Will 2021 Be The Year of The Android Desktop?](https://kmyers.me/blog/android/will-2021-be-the-year-of-the-android-desktop/?utm_source=rss&utm_medium=rss&utm_campaign=will-2021-be-the-year-of-the-android-desktop)
 - [DexOnLinux/DexOnChromeOS – How To (NO ROOT)](https://kmyers.me/blog/android/dexonlinux-dexonchromeos-how-to-no-root/?utm_source=rss&utm_medium=rss&utm_campaign=dexonlinux-dexonchromeos-how-to-no-root)
-- [ePaper Dashboard POC](https://kmyers.me/blog/general/epaper-dashboard-poc/?utm_source=rss&utm_medium=rss&utm_campaign=epaper-dashboard-poc)
 <!-- BLOG-POST-LIST:END -->
 
 
