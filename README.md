@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+- [ChromiumOS for GPD Pocket 1 and 2 R89-13613 Released – Major Update](https://kmyers.me/blog/chromiumos-for-gpd-pocket/chromiumos-for-gpd-pocket-1-and-2-r89-13613-released-major-update/?utm_source=rss&utm_medium=rss&utm_campaign=chromiumos-for-gpd-pocket-1-and-2-r89-13613-released-major-update)
 - [Announcing the Re-Launch of Technical.chat](https://kmyers.me/blog/general/announcing-the-re-launch-of-technical-chat/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-re-launch-of-technical-chat)
 - [Responding to Jays Tech Vault – These Chromebook Ads Are Horrendously Misleading](https://kmyers.me/blog/chromeos/responding-to-jays-tech-vault-these-chromebook-ads-are-horrendously-misleading/?utm_source=rss&utm_medium=rss&utm_campaign=responding-to-jays-tech-vault-these-chromebook-ads-are-horrendously-misleading)
 - [Announcing the Chromebook Community](https://kmyers.me/blog/chromeos/announcing-the-chromebook-community/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-chromebook-community)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [Chrome Remote Desktop On Ubuntu 20.04 Setup Guide/Setup Script](https://kmyers.me/blog/linux/chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script/?utm_source=rss&utm_medium=rss&utm_campaign=chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script)
 - [The Shortcomings of ChromeOS in 2020](https://kmyers.me/blog/chromeos/the-shortcomings-of-chromeos-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=the-shortcomings-of-chromeos-in-2020)
 - [Will 2021 Be The Year of The Android Desktop?](https://kmyers.me/blog/android/will-2021-be-the-year-of-the-android-desktop/?utm_source=rss&utm_medium=rss&utm_campaign=will-2021-be-the-year-of-the-android-desktop)
-- [DexOnLinux/DexOnChromeOS – How To (NO ROOT)](https://kmyers.me/blog/android/dexonlinux-dexonchromeos-how-to-no-root/?utm_source=rss&utm_medium=rss&utm_campaign=dexonlinux-dexonchromeos-how-to-no-root)
 <!-- BLOG-POST-LIST:END -->
 
 
