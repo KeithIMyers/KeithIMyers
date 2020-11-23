@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Keith I Myers
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeithIMyers&show_icons=true&theme=merko&count_private=true" alt="Keith I Myers's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithIMyers&theme=merko&layout=compact" alt="Keith I Myers's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeithIMyers&show_icons=true&theme=merko&count_private=true" alt="Keith I Myers's github stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithIMyers&theme=merko&layout=compact" alt="Keith I Myers's github top languages" />
   
   ### Project Statuses
 - Github Profile Generation (Blog Feed Generation)  : [![homepage](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)](https://kmyers.me/blog/ "Blog Page")
