@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ### Project Statuses
-- Github Profile Generation (Blog Feed Generation) : ![](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)()
+- Github Profile Generation (Blog Feed Generation)  : [![homepage](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)](https://kmyers.me/blog/ "Blog Page")
 - ChromiumOS for GPD Pocket Weekly Builds : [![homepage](https://github.com/KeithIMyers/overlay-gpdpocket/workflows/Build%20Automation/badge.svg)](https://github.com/KeithIMyers/overlay-gpdpocket "Project Page")
 
 [website]: https://KMyers.me
