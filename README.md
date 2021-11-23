@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+- [PSA To All Who Plan To Cook A Turkey In 2021](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2020psa-to-all-who-plan-to-cook-a-turkey-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=psa-to-all-who-plan-to-cook-a-turkey-in-2020psa-to-all-who-plan-to-cook-a-turkey-in-2021)
 - [PSA To All Who Plan To Cook A Turkey In 2020](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=psa-to-all-who-plan-to-cook-a-turkey-in-2020)
 - [ChromiumOS for GPD Pocket 1 and 2 R89-13613 Released – Major Update](https://kmyers.me/blog/chromiumos-for-gpd-pocket/chromiumos-for-gpd-pocket-1-and-2-r89-13613-released-major-update/?utm_source=rss&utm_medium=rss&utm_campaign=chromiumos-for-gpd-pocket-1-and-2-r89-13613-released-major-update)
 - [Announcing the Re-Launch of Technical.chat](https://kmyers.me/blog/general/announcing-the-re-launch-of-technical-chat/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-re-launch-of-technical-chat)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [Amazon Scam Breakdown : The Bait And Switch for False Reviews](https://kmyers.me/blog/general/amazon-scam-breakdown-the-bait-and-switch-for-false-reviews/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-scam-breakdown-the-bait-and-switch-for-false-reviews)
 - [Rethinking Life in a Post COVID-19 World](https://kmyers.me/blog/general/rethinking-life-in-a-post-covid-19-world/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-life-in-a-post-covid-19-world)
 - [Chrome Remote Desktop On Ubuntu 20.04 Setup Guide/Setup Script](https://kmyers.me/blog/linux/chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script/?utm_source=rss&utm_medium=rss&utm_campaign=chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script)
-- [The Shortcomings of ChromeOS in 2020](https://kmyers.me/blog/chromeos/the-shortcomings-of-chromeos-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=the-shortcomings-of-chromeos-in-2020)
 <!-- BLOG-POST-LIST:END -->
 
 
