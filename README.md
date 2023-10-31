@@ -30,8 +30,7 @@ Here are some ideas to get you started:
  - [Embracing Generative AI: A Paradigm Shift in Job Roles](https://kmyers.me/blog/artificial-intelligence/embracing-generative-ai-a-paradigm-shift-in-job-roles/)
  - [Why I am Quickly Losing Trust and Faith in Google](https://kmyers.me/blog/google/why-i-am-quickly-losing-trust-and-faith-in-google/)
  - [Announcing The Great American Book Of Presidential Tacos](https://kmyers.me/blog/general/announcing-the-great-american-book-of-presidential-tacos/)
- - [Shifting the Trust: How Privacy Marketing Preys on Your Fears](https://kmyers.me/blog/privacy/shifting-the-trust-how-privacy-marketing-preys-on-your-fears/)
- - [The Art of Talking to Machines - A Dive into Conversation Design and Prompt Engineering](https://kmyers.me/blog/artificial-intelligence/the-art-of-talking-to-machines-a-dive-into-conversation-design-and-prompt-engineering/)
+ - [Shifting the Trust: How Privacy Marketing Preys on Your Fears](https://kmyers.me/blog/privacy/shifting-the-trust-how-privacy-marketin to Machines - A Dive into Conversation Design and Prompt Engineering](https://kmyers.me/blog/artificial-intelligence/the-art-of-talking-to-machines-a-dive-into-conversation-design-and-prompt-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 
