@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   
 ### Project Statuses
 
-
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
  - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
@@ -32,6 +31,10 @@ Here are some ideas to get you started:
  - [The Art of Talking to Machines - A Dive into Conversation Design and Prompt Engineering](https://kmyers.me/blog/artificial-intelligence/the-art-of-talking-to-machines-a-dive-into-conversation-design-and-prompt-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
+### Projects I am Sponsoring
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 ### Connect with me on Social Media:
 
