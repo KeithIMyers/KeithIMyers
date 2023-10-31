@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
-- [PSA To All Who Plan To Cook A Turkey In 2021](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2020psa-to-all-who-plan-to-cook-a-turkey-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=psa-to-all-who-plan-to-cook-a-turkey-in-2020psa-to-all-who-plan-to-cook-a-turkey-in-2021)
-- [PSA To All Who Plan To Cook A Turkey In 2020](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=psa-to-all-who-plan-to-cook-a-turkey-in-2020)
-- [ChromiumOS for GPD Pocket 1 and 2 R89-13613 Released – Major Update](https://kmyers.me/blog/chromiumos-for-gpd-pocket/chromiumos-for-gpd-pocket-1-and-2-r89-13613-released-major-update/?utm_source=rss&utm_medium=rss&utm_campaign=chromiumos-for-gpd-pocket-1-and-2-r89-13613-released-major-update)
-- [Announcing the Re-Launch of Technical.chat](https://kmyers.me/blog/general/announcing-the-re-launch-of-technical-chat/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-re-launch-of-technical-chat)
-- [Responding to Jays Tech Vault – These Chromebook Ads Are Horrendously Misleading](https://kmyers.me/blog/chromeos/responding-to-jays-tech-vault-these-chromebook-ads-are-horrendously-misleading/?utm_source=rss&utm_medium=rss&utm_campaign=responding-to-jays-tech-vault-these-chromebook-ads-are-horrendously-misleading)
-- [Announcing the Chromebook Community](https://kmyers.me/blog/chromeos/announcing-the-chromebook-community/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-chromebook-community)
-- [ChromeOS 86.0.4208.0 Rolling Out to Dev – Crostini USB Support Enhancements](https://kmyers.me/blog/chromeos/chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements/?utm_source=rss&utm_medium=rss&utm_campaign=chromeos-86-0-4208-0-rolling-out-to-dev-crostini-usb-support-enhancements)
-- [Amazon Scam Breakdown : The Bait And Switch for False Reviews](https://kmyers.me/blog/general/amazon-scam-breakdown-the-bait-and-switch-for-false-reviews/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-scam-breakdown-the-bait-and-switch-for-false-reviews)
-- [Rethinking Life in a Post COVID-19 World](https://kmyers.me/blog/general/rethinking-life-in-a-post-covid-19-world/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-life-in-a-post-covid-19-world)
-- [Chrome Remote Desktop On Ubuntu 20.04 Setup Guide/Setup Script](https://kmyers.me/blog/linux/chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script/?utm_source=rss&utm_medium=rss&utm_campaign=chrome-remote-desktop-on-ubuntu-20-04-setup-guide-setup-script)
+ - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
+ - [Flashback : The True Cost of Paule Villard's Taxpayer Funded Las Vegas Vacation](https://kmyers.me/blog/paule-villard/flashback-the-true-cost-of-paule-villards-taxpayer-funded-las-vegas-vacation/)
+ - [Migrating To Plain Text : Moving Away From WordPress](https://kmyers.me/blog/general/migrating-to-plain-text-moving-away-from-wordpress/)
+ - [The Haunting Resurgence : Paule Villard Plans Her Malevolent Return by Filing To Run For Mayor](https://kmyers.me/blog/citynmb/the-haunting-resurgence-paule-villard-plans-her-malevolent-return-by-filing-to-run-for-mayor/)
+ - [X-Real Air Augmented Reality Glasses - A Review After 10 Months of Use](https://kmyers.me/blog/reviews/x-real-augmented-reality-glasses-a-review-after-10-months-of-use/)
+ - [Embracing Generative AI: A Paradigm Shift in Job Roles](https://kmyers.me/blog/artificial-intelligence/embracing-generative-ai-a-paradigm-shift-in-job-roles/)
+ - [Why I am Quickly Losing Trust and Faith in Google](https://kmyers.me/blog/google/why-i-am-quickly-losing-trust-and-faith-in-google/)
+ - [Announcing The Great American Book Of Presidential Tacos](https://kmyers.me/blog/general/announcing-the-great-american-book-of-presidential-tacos/)
+ - [Shifting the Trust: How Privacy Marketing Preys on Your Fears](https://kmyers.me/blog/privacy/shifting-the-trust-how-privacy-marketing-preys-on-your-fears/)
+ - [The Art of Talking to Machines - A Dive into Conversation Design and Prompt Engineering](https://kmyers.me/blog/artificial-intelligence/the-art-of-talking-to-machines-a-dive-into-conversation-design-and-prompt-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 
