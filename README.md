@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 ## Keith I Myers
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeithIMyers&show_icons=true&theme=merko&count_private=true" alt="Keith I Myers's github stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithIMyers&theme=merko&layout=compact" alt="Keith I Myers's github top languages" />
   
-  ### Project Statuses
-- Github Profile Generation (Blog Feed Generation)  : [![homepage](https://github.com/KeithIMyers/KeithIMyers/workflows/Latest%20blog%20post%20workflow/badge.svg)](https://kmyers.me/blog/ "Blog Page")
-- ChromiumOS for GPD Pocket Weekly Builds : [![homepage](https://github.com/KeithIMyers/overlay-gpdpocket/workflows/Build%20Automation/badge.svg)](https://github.com/KeithIMyers/overlay-gpdpocket "Project Page")
+### Project Statuses
 
 
 ### Latest Blog Posts from KMyers.me
