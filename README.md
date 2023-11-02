@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [Never Underestimate The Power of Plain Text : Standardizing on Markdown and Removing Vendor Lock-in](https://kmyers.me/blog/markdown/never-underestimate-the-power-of-plain-text-standardizing-on-markdown-and-removing-vendor-lock-in/)
  - [A Review of Samsung Dex After 6 Long Years](https://kmyers.me/blog/android/a-review-of-samsung-dex-after-6-long-years/)
  - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
  - [Flashback : The True Cost of Paule Villard's Taxpayer Funded Las Vegas Vacation](https://kmyers.me/blog/paule-villard/flashback-the-true-cost-of-paule-villards-taxpayer-funded-las-vegas-vacation/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [Embracing Generative AI: A Paradigm Shift in Job Roles](https://kmyers.me/blog/artificial-intelligence/embracing-generative-ai-a-paradigm-shift-in-job-roles/)
  - [Why I am Quickly Losing Trust and Faith in Google](https://kmyers.me/blog/google/why-i-am-quickly-losing-trust-and-faith-in-google/)
  - [Announcing The Great American Book Of Presidential Tacos](https://kmyers.me/blog/general/announcing-the-great-american-book-of-presidential-tacos/)
- - [Shifting the Trust: How Privacy Marketing Preys on Your Fears](https://kmyers.me/blog/privacy/shifting-the-trust-how-privacy-marketing-preys-on-your-fears/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
