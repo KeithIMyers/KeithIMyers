@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [Computer Security Advice That Aged Badly](https://kmyers.me/blog/security/computer-security-advice-that-aged-badly/)
  - [Never Underestimate The Power of Plain Text : Standardizing on Markdown and Removing Vendor Lock-in](https://kmyers.me/blog/markdown/never-underestimate-the-power-of-plain-text-standardizing-on-markdown-and-removing-vendor-lock-in/)
  - [A Review of Samsung Dex After 6 Long Years](https://kmyers.me/blog/android/a-review-of-samsung-dex-after-6-long-years/)
  - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [X-Real Air Augmented Reality Glasses - A Review After 10 Months of Use](https://kmyers.me/blog/reviews/x-real-augmented-reality-glasses-a-review-after-10-months-of-use/)
  - [Embracing Generative AI: A Paradigm Shift in Job Roles](https://kmyers.me/blog/artificial-intelligence/embracing-generative-ai-a-paradigm-shift-in-job-roles/)
  - [Why I am Quickly Losing Trust and Faith in Google](https://kmyers.me/blog/google/why-i-am-quickly-losing-trust-and-faith-in-google/)
- - [Announcing The Great American Book Of Presidential Tacos](https://kmyers.me/blog/general/announcing-the-great-american-book-of-presidential-tacos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
