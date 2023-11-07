@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [Angry Birds Vegas Invasion - A Sneak Peek of The New 2024 Vegas Attraction](https://kmyers.me/blog/humor/angry-birds-vegas-invasion-a-sneak-peek-of-the-new-2024-vegas-attraction/)
  - [My Horrible Experience with Samsung Premium Care - Samsung Z Fold 4 Repair](https://kmyers.me/blog/general/my-horrible-experience-with-samsung-premium-care-samsung-z-fold-4-repair/)
  - [Computer Security Advice That Aged Badly](https://kmyers.me/blog/security/computer-security-advice-that-aged-badly/)
  - [Never Underestimate The Power of Plain Text : Standardizing on Markdown and Removing Vendor Lock-in](https://kmyers.me/blog/markdown/never-underestimate-the-power-of-plain-text-standardizing-on-markdown-and-removing-vendor-lock-in/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [Migrating To Plain Text : Moving Away From WordPress](https://kmyers.me/blog/general/migrating-to-plain-text-moving-away-from-wordpress/)
  - [The Haunting Resurgence : Paule Villard Plans Her Malevolent Return by Filing To Run For Mayor](https://kmyers.me/blog/citynmb/the-haunting-resurgence-paule-villard-plans-her-malevolent-return-by-filing-to-run-for-mayor/)
  - [X-Real Air Augmented Reality Glasses - A Review After 10 Months of Use](https://kmyers.me/blog/reviews/x-real-augmented-reality-glasses-a-review-after-10-months-of-use/)
- - [Embracing Generative AI: A Paradigm Shift in Job Roles](https://kmyers.me/blog/artificial-intelligence/embracing-generative-ai-a-paradigm-shift-in-job-roles/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
