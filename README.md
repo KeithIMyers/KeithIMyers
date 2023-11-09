@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [Delusional Puppet Lesley Kaplan Supports Corruption And Wants You To Give Villard A Chance](https://kmyers.me/blog/paule-villard/delusional-puppet-lesley-kaplan-supports-corruption-and-wants-you-to-give-villard-a-chance/)
  - [Mastering the Art of Working from Home : Best Practices and Technology for a Efficient Workflow](https://kmyers.me/blog/work-from-home/mastering-the-art-of-working-from-home-best-practices-and-technology-for-a-efficient-workflow/)
  - [Angry Birds Vegas Invasion - A Sneak Peek of The New 2024 Vegas Attraction](https://kmyers.me/blog/humor/angry-birds-vegas-invasion-a-sneak-peek-of-the-new-2024-vegas-attraction/)
  - [My Horrible Experience with Samsung Premium Care - Samsung Z Fold 4 Repair](https://kmyers.me/blog/general/my-horrible-experience-with-samsung-premium-care-samsung-z-fold-4-repair/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
  - [Flashback : The True Cost of Paule Villard's Taxpayer Funded Las Vegas Vacation](https://kmyers.me/blog/paule-villard/flashback-the-true-cost-of-paule-villards-taxpayer-funded-las-vegas-vacation/)
  - [Migrating To Plain Text : Moving Away From WordPress](https://kmyers.me/blog/general/migrating-to-plain-text-moving-away-from-wordpress/)
- - [The Haunting Resurgence : Paule Villard Plans Her Malevolent Return by Filing To Run For Mayor](https://kmyers.me/blog/citynmb/the-haunting-resurgence-paule-villard-plans-her-malevolent-return-by-filing-to-run-for-mayor/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
