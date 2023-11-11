@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [Paule Villard Digs Into Her Bag of Tricks : No, the Democratic Party of Florida DID NOT endorse Paule Villard](https://kmyers.me/blog/paule-villard/paule-villard-digs-into-her-bag-of-tricks-no-the-democratic-party-of-florida-did-not-endorse-paule-villard/)
  - [Delusional Puppet Lesley Kaplan Supports Corruption And Wants You To Give Villard A Chance](https://kmyers.me/blog/paule-villard/delusional-puppet-lesley-kaplan-supports-corruption-and-wants-you-to-give-villard-a-chance/)
  - [Mastering the Art of Working from Home : Best Practices and Technology for a Efficient Workflow](https://kmyers.me/blog/work-from-home/mastering-the-art-of-working-from-home-best-practices-and-technology-for-a-efficient-workflow/)
  - [Angry Birds Vegas Invasion - A Sneak Peek of The New 2024 Vegas Attraction](https://kmyers.me/blog/humor/angry-birds-vegas-invasion-a-sneak-peek-of-the-new-2024-vegas-attraction/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [A Review of Samsung Dex After 6 Long Years](https://kmyers.me/blog/android/a-review-of-samsung-dex-after-6-long-years/)
  - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
  - [Flashback : The True Cost of Paule Villard's Taxpayer Funded Las Vegas Vacation](https://kmyers.me/blog/paule-villard/flashback-the-true-cost-of-paule-villards-taxpayer-funded-las-vegas-vacation/)
- - [Migrating To Plain Text : Moving Away From WordPress](https://kmyers.me/blog/general/migrating-to-plain-text-moving-away-from-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
