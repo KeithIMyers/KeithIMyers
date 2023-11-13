@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
  - [Warning : Be careful when purchasing a ChromeOS device during a Black Friday Sale](https://kmyers.me/blog/chromeos/warning-be-careful-when-purchasing-a-chromeos-device-during-a-black-friday-sale/)
+ - [Deal Alert : The Zendure SuperTank Pro is Half Off](https://kmyers.me/blog/sale/deal-alert-the-zendure-supertank-pro-is-half-off/)
  - [Paule Villard Digs Into Her Bag of Tricks : No, the Democratic Party of Florida DID NOT endorse Paule Villard](https://kmyers.me/blog/paule-villard/paule-villard-digs-into-her-bag-of-tricks-no-the-democratic-party-of-florida-did-not-endorse-paule-villard/)
  - [Delusional Puppet Lesley Kaplan Supports Corruption And Wants You To Give Villard A Chance](https://kmyers.me/blog/paule-villard/delusional-puppet-lesley-kaplan-supports-corruption-and-wants-you-to-give-villard-a-chance/)
  - [Mastering the Art of Working from Home : Best Practices and Technology for a Efficient Workflow](https://kmyers.me/blog/work-from-home/mastering-the-art-of-working-from-home-best-practices-and-technology-for-a-efficient-workflow/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [Computer Security Advice That Aged Badly](https://kmyers.me/blog/security/computer-security-advice-that-aged-badly/)
  - [Never Underestimate The Power of Plain Text : Standardizing on Markdown and Removing Vendor Lock-in](https://kmyers.me/blog/markdown/never-underestimate-the-power-of-plain-text-standardizing-on-markdown-and-removing-vendor-lock-in/)
  - [A Review of Samsung Dex After 6 Long Years](https://kmyers.me/blog/android/a-review-of-samsung-dex-after-6-long-years/)
- - [Like a Plague : Corrupt Ex-Commissioner Paule Villard Is Back](https://kmyers.me/blog/paule-villard/like-a-plague-corrupt-ex-commissioner-paule-villard-is-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
