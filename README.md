@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [Opinion - ChromeOS Cannot Succeed Unless It Embraces OEM Customizations](https://kmyers.me/blog/chromeos/opinion-chromeos-cannot-succeed-unless-it-embraces-oem-customizations/)
  - [Warning : Be careful when purchasing a ChromeOS device during a Black Friday Sale](https://kmyers.me/blog/chromeos/warning-be-careful-when-purchasing-a-chromeos-device-during-a-black-friday-sale/)
  - [Deal Alert : The Zendure SuperTank Pro is Half Off](https://kmyers.me/blog/sale/deal-alert-the-zendure-supertank-pro-is-half-off/)
  - [Being Kind to Paule Villard - A Look What She Accomplished](https://kmyers.me/blog/paule-villard/being-kind-to-paule-villard-a-look-what-she-accomplished/)
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
  - [Angry Birds Vegas Invasion - A Sneak Peek of The New 2024 Vegas Attraction](https://kmyers.me/blog/humor/angry-birds-vegas-invasion-a-sneak-peek-of-the-new-2024-vegas-attraction/)
  - [My Horrible Experience with Samsung Premium Care - Samsung Z Fold 4 Repair](https://kmyers.me/blog/general/my-horrible-experience-with-samsung-premium-care-samsung-z-fold-4-repair/)
  - [Computer Security Advice That Aged Badly](https://kmyers.me/blog/security/computer-security-advice-that-aged-badly/)
- - [Never Underestimate The Power of Plain Text : Standardizing on Markdown and Removing Vendor Lock-in](https://kmyers.me/blog/markdown/never-underestimate-the-power-of-plain-text-standardizing-on-markdown-and-removing-vendor-lock-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
