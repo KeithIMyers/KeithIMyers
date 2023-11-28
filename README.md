@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
- - [Compulsive Liar Paule Villard Caught In Yet Another Lie - Congresswoman Frederica Wilson DID NOT Endorse Paule Villard](https://kmyers.me/blog/paule-villard/compulsive-liar-paule-villard-caught-in-yet-another-lie-- congresswoman-frederica-wilson-did-not-endorse-paule-villard/)
+ - [Compulsive Liar Paule Villard Caught In Yet Another Lie - Congresswoman Frederica Wilson DID NOT Endorse Paule Villard](https://kmyers.me/blog/paule-villard/congresswoman-frederica-wilson-did-not-endorse-paule-villard/)
  - [Open Letter to Congresswoman Frederica Wilson - Endorsing Paule Villard Is A Endorsement For Corruption And Criminal Behavior](https://kmyers.me/blog/paule-villard/open-letter-to-congresswoman-frederica-wilson-endorsing-paule-villard-is-a-endorsement-for-corruption-and-criminal-behavior/)
  - [PSA To All Who Plan To Cook A Turkey In 2023](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2023/)
  - [The Abrupt Firing of OpenAI CEO Sam Altman : Why The Federal Government Should Treat This As A Matter of National Security](https://kmyers.me/blog/openai/the-abrupt-firing-of-openai-ceo-sam-altman-why-the-federal-government-should-treat-this-as-a-matter-of-national-security/)
