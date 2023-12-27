@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
+ - [The Shortcomings of ChromeOS in 2023](https://kmyers.me/blog/chromeos/the-shortcomings-of-chromeos-in-2023/)
+ - [Paule Villard Is Already Openly Committing Election Fraud - Report These Criminals](https://kmyers.me/blog/paule-villard/paule-villard-is-already-openly-committing-election-fraud-report-these-criminals/)
+ - [North Miami Beach Sends Paule Villard To The Garbage Dump For The Second Time In A Year Lets Look At Her Dumpster Fire of a Campaign](https://kmyers.me/blog/paule-villard/north-miami-beach-sends-paule-villard-to-the-garbage-dump-for-the-second-time-in-a-year-lets-look-at-her-dumpster-fire-of-a-campaign/)
+ - [Not Sorry Paule - I have have owned all your domains for months and have been re-directing all of your traffic to me](https://kmyers.me/blog/paule-villard/not-sorry-paule-i-have-have-owned-all-your-domains-for-months-and-have-been-re-directing-all-of-your-traffic-to-me/)
+ - [Paule Villard Has Already Reached Into Her Bag Of Tricks And Is Already Openly Violating City Ordinances](https://kmyers.me/blog/paule-villard/paule-villard-has-already-reached-into-her-bag-of-tricks-and-is-already-openly-violating-city-ordinances/)
+ - [Exposing Paule Villard Bag Of Tricks - How She Exploits ADA Forms To Ensure People Vote "Correctly"](https://kmyers.me/blog/paule-villard/exposing-paule-villard-bag-of-tricks-how-she-exploits-ada-to-ensure-people-vote-correctly/)
  - [The Paule Villard Compulsive Liar Drinking Game - Will You Survive](https://kmyers.me/blog/paule-villard/the-paule-villard-compulsive-liar-drinking-game-will-you-survive/)
  - [Compulsive Liar Paule Villard Caught In Yet Another Lie - Congresswoman Frederica Wilson DID NOT Endorse Paule Villard](https://kmyers.me/blog/paule-villard/congresswoman-frederica-wilson-did-not-endorse-paule-villard/)
  - [Open Letter to Congresswoman Frederica Wilson - Endorsing Paule Villard Is A Endorsement For Corruption And Criminal Behavior](https://kmyers.me/blog/paule-villard/open-letter-to-congresswoman-frederica-wilson-endorsing-paule-villard-is-a-endorsement-for-corruption-and-criminal-behavior/)
  - [PSA To All Who Plan To Cook A Turkey In 2023](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2023/)
- - [The Abrupt Firing of OpenAI CEO Sam Altman : Why The Federal Government Should Treat This As A Matter of National Security](https://kmyers.me/blog/openai/the-abrupt-firing-of-openai-ceo-sam-altman-why-the-federal-government-should-treat-this-as-a-matter-of-national-security/)
- - [Opinion - ChromeOS Cannot Succeed Unless It Embraces OEM Customizations](https://kmyers.me/blog/chromeos/opinion-chromeos-cannot-succeed-unless-it-embraces-oem-customizations/)
- - [Warning : Be careful when purchasing a ChromeOS device during a Black Friday Sale](https://kmyers.me/blog/chromeos/warning-be-careful-when-purchasing-a-chromeos-device-during-a-black-friday-sale/)
- - [Deal Alert : The Zendure SuperTank Pro is Half Off](https://kmyers.me/blog/sale/deal-alert-the-zendure-supertank-pro-is-half-off/)
- - [Being Kind to Paule Villard - A Look What She Accomplished](https://kmyers.me/blog/paule-villard/being-kind-to-paule-villard-a-look-what-she-accomplished/)
- - [Paule Villard Digs Into Her Bag of Tricks : No, the Democratic Party of Florida DID NOT endorse Paule Villard](https://kmyers.me/blog/paule-villard/paule-villard-digs-into-her-bag-of-tricks-no-the-democratic-party-of-florida-did-not-endorse-paule-villard/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
