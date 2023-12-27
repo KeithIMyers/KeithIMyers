@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### Latest Blog Posts from KMyers.me
 <!-- BLOG-POST-LIST:START -->
  - [The Shortcomings of ChromeOS in 2023](https://kmyers.me/blog/chromeos/the-shortcomings-of-chromeos-in-2023/)
- - [Paule - If you are going to continue to talk out of your ass turn around so we can hear you better](https://kmyers.me/blog/paule-villard/paule-if-you-are-going-to-continue-to-talk-out-of-your-ass-turn-around-so-we-can-hear-you-better/)
  - [Paule Villard Is Already Openly Committing Election Fraud - Report These Criminals](https://kmyers.me/blog/paule-villard/paule-villard-is-already-openly-committing-election-fraud-report-these-criminals/)
  - [North Miami Beach Sends Paule Villard To The Garbage Dump For The Second Time In A Year Lets Look At Her Dumpster Fire of a Campaign](https://kmyers.me/blog/paule-villard/north-miami-beach-sends-paule-villard-to-the-garbage-dump-for-the-second-time-in-a-year-lets-look-at-her-dumpster-fire-of-a-campaign/)
  - [Not Sorry Paule - I have have owned all your domains for months and have been re-directing all of your traffic to me](https://kmyers.me/blog/paule-villard/not-sorry-paule-i-have-have-owned-all-your-domains-for-months-and-have-been-re-directing-all-of-your-traffic-to-me/)
@@ -29,6 +28,7 @@ Here are some ideas to get you started:
  - [The Paule Villard Compulsive Liar Drinking Game - Will You Survive](https://kmyers.me/blog/paule-villard/the-paule-villard-compulsive-liar-drinking-game-will-you-survive/)
  - [Compulsive Liar Paule Villard Caught In Yet Another Lie - Congresswoman Frederica Wilson DID NOT Endorse Paule Villard](https://kmyers.me/blog/paule-villard/congresswoman-frederica-wilson-did-not-endorse-paule-villard/)
  - [Open Letter to Congresswoman Frederica Wilson - Endorsing Paule Villard Is A Endorsement For Corruption And Criminal Behavior](https://kmyers.me/blog/paule-villard/open-letter-to-congresswoman-frederica-wilson-endorsing-paule-villard-is-a-endorsement-for-corruption-and-criminal-behavior/)
+ - [PSA To All Who Plan To Cook A Turkey In 2023](https://kmyers.me/blog/humor/psa-to-all-who-plan-to-cook-a-turkey-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Projects I am Sponsoring
